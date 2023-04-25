@@ -1,5 +1,5 @@
 # About Me:
-🔭 I’m currently working on android development.
+I’m currently working on android development.
 
 
 ## Socials:
