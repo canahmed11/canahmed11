@@ -15,11 +15,8 @@ I’m currently working on android development.
 ## GitHub Trophies
 ![](https://github-profile-trophy.vercel.app/?username=canahmed11&theme=radical&no-frame=true&no-bg=true&margin-w=4)
 
-### Random Dev Quote
+### Dev Quote
 ![](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=gruvbox)
-
-### Random Dev Meme
-<img src="https://rm.up.railway.app/" width="512px"/>
 
 ---
 [![](https://visitcount.itsvg.in/api?id=canahmed11&icon=2&color=9)](https://visitcount.itsvg.in)
