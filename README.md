@@ -1,9 +1,6 @@
 <h1 align="center">I'm Ahmet</h1>
 <h3 align="center">A determined android developer</h3>
 
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=canahmed11&label=Profile%20views&color=0e75b6&style=flat" alt="canahmed11" /> </p>
-
-<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=canahmed11" alt="canahmed11" /></a> </p>
 
 - 🔭 I’m currently working on [DeezerApp](https://github.com/canahmed11/DeezerApp)
 
