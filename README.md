@@ -2,11 +2,11 @@
 <h3 align="center">A determined Android Developer</h3>
 
 
-- 🔭 I’m currently working on [DeezerApp](https://github.com/canahmed11/DeezerApp)
+- I’m currently working on [DeezerApp](https://github.com/canahmed11/DeezerApp)
 
-- 🌱 I’m currently learning **Android**
+- I’m currently learning **Android**
 
-- 📫 How to reach me **urunverenahmett@gmail.com**
+- How to reach me **urunverenahmett@gmail.com**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
