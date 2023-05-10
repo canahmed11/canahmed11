@@ -20,10 +20,8 @@
 
 ![](http://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=canahmed11&theme=apprentice)
 
-![](http://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=canahmed11&theme=apprentice)
+![](http://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=canahmed11&theme=apprentice) ![](http://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=canahmed11&theme=apprentice)
 
-![](http://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=canahmed11&theme=apprentice)
+![](http://github-profile-summary-cards.vercel.app/api/cards/stats?username=canahmed11&theme=apprentice) ![](http://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=canahmed11&theme=apprentice&utcOffset=8)
 
-![](http://github-profile-summary-cards.vercel.app/api/cards/stats?username=canahmed11&theme=apprentice)
 
-![](http://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=canahmed11&theme=apprentice&utcOffset=8)
